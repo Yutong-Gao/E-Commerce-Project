@@ -2,7 +2,7 @@
   "name": "comfy",
   "version": "0.1.0",
   "homepage": "https://Yutong-Gao.github.io/E-Commerce-Project",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@auth0/auth0-react": "^2.0.0",
     "@stripe/react-stripe-js": "^1.14.2",
