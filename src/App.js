@@ -22,6 +22,9 @@ function App() {
         <Route exact path="/E-Commerce-Project">
           <Home />
         </Route>
+        <Route exact path="/">
+          <Home />
+        </Route>
         <Route exact path="/about">
           <About />
         </Route>
