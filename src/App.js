@@ -21,9 +21,9 @@ function App() {
         <Navbar />
         <Sidebar />
         <Switch>
-          <Route exact path="/E-Commerce-Project">
+          {/* <Route exact path="/E-Commerce-Project">
             <Home />
-          </Route>
+          </Route> */}
           <Route exact path="/">
             <Home />
           </Route>

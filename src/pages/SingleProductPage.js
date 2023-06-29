@@ -35,6 +35,7 @@ const SingleProductPage = () => {
         history.push("/");
       }, 3000);
     }
+    // eslint-disable-next-line
   });
   if (loading) {
     return <Loading />;

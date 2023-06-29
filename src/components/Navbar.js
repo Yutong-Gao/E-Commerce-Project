@@ -15,7 +15,7 @@ const Nav = () => {
     <NavContainer>
       <div className="nav-center">
         <div className="nav-header">
-          <Link to="/E-Commerce-Project">
+          <Link to="/">
             <img src={logo} alt="Comfy Sloth" />
           </Link>
           <button type="button" className="nav-toggle" onClick={openSidebar}>
